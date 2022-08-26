@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Testing things
 - 🌱 I’m currently learning Squish and Qt/QML artefacts
-- 📫 How to reach me: Any social platform
+- 📫 How to reach me: on twitter
