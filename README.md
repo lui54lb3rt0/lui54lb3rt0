@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Testing things
+- 🌱 I’m currently learning Squish and Qt/QML artefacts
+- 📫 How to reach me: Any social platform
