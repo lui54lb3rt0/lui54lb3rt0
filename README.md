@@ -1,20 +1,33 @@
-### Hi there 👋
-
 <!--
 **lui54lb3rt0/lui54lb3rt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Luís Silva!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-- 🔭 I’m currently working on Testing things
-- 🌱 I’m currently learning Squish and Qt/QML artefacts
-- 📫 How to reach me: on twitter
+Hi there! I’m **Luís Silva**, a passionate developer, maker, and tech explorer from Portugal 🇵🇹. I love building practical tools, smart home integrations, and open-source projects that solve real-world problems.
+
+### 🔧 I work with:
+- **IoT & Embedded Systems** (ESP32, Zigbee, Modbus)
+- **Web Development** (JavaScript, Node.js, WordPress, React)
+- **Automation & Home Assistant Custom Components**
+- **DIY Electronics & PCB Design**
+
+### 🛠️ Currently hacking together:
+- Custom Zigbee devices  
+- Smart energy monitoring integrations  
+- Beautiful dashboards for Home Assistant  
+
+### 🌱 Always learning about:
+- Low-power networking protocols  
+- Modern front-end frameworks  
+- Clean and sustainable tech solutions  
+
+## 📫 How to reach me
+Drop by on **GitHub** or connect via [LinkedIn](#) — always happy to chat about code, hardware, or ideas!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luis-silva&show_icons=true&theme=tokyonight" alt="Luís Silva's GitHub stats" />
+</p>
