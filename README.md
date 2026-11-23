@@ -22,9 +22,3 @@ Hi there! I’m **Luís Silva**, a passionate developer, maker, and tech explore
 
 ## 📫 How to reach me
 Drop by on **GitHub** or connect via [LinkedIn](#) — always happy to chat about code, hardware, or ideas!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis-silva&show_icons=true&theme=tokyonight" alt="Luís Silva's GitHub stats" />
-</p>
